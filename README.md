@@ -2,7 +2,10 @@
 
 This list is for anyone wishing to learn about [Apache Kafka](http://kafka.apache.org/), but do not have a starting point.
 
-You can help by sending Pull Requests to add more information.
+#### How to contribute
+
+Fork the repository, create a contribution, and create a pull request against monksy/awesome-kafka:master.
+
 
 Table of Contents
 =================
