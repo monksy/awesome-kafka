@@ -3,7 +3,7 @@
 * [Elasticsearch 5 with XPack support](https://github.com/Landoop/stream-reactor/tree/master/kafka-connect-elastic5)
 * [Elasticsearch 6 with XPack support](https://github.com/Landoop/stream-reactor/tree/master/kafka-connect-elastic6)
 * [HDFS](https://github.com/confluentinc/kafka-connect-hdfs)
-* [BigQuery](https://github.com/nodefluent/bigquery-kafka-connect)
+* [BigQuery](https://github.com/wepay/kafka-connect-bigquery)
 * [SQL](https://github.com/nodefluent/sequelize-kafka-connect)
 * [GCloud pubsub](https://github.com/nodefluent/gcloud-pubsub-kafka-connect)
 * [BigTable](https://github.com/nodefluent/bigtable-kafka-connect)  
