@@ -45,6 +45,7 @@ Table of Contents
 ## Dashboards 
  * [Yahoo Kafka Manager](https://github.com/yahoo/kafka-manager)
  * [Kafka Webview](https://github.com/SourceLabOrg/kafka-webview)
+ * [Kafka HQ](https://github.com/tchiotludo/kafkahq)
  * [Kafka Tool](http://www.kafkatool.com/)- Commercial Tool for managing Kafka 0.8
  * [Kafdrop](https://github.com/HomeAdvisor/Kafdrop)
 * [Kafka Topics UI](https://github.com/Landoop/kafka-topics-ui)
