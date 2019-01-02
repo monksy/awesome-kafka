@@ -31,20 +31,19 @@ Table of Contents
 
    * [Introduction to Apache Kafka by Joe Stein](https://www.youtube.com/watch?v=qc33qMUvR7c)
    * [Apache Kafka and the Next 700 Stream Processing Systems by Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro)
-   * [Using Logs To Build a Solid Data Infrastructure](http://www.ustream.tv/recorded/61479591 - Martin Kleppmann (Linkedin))
+   * [Using Logs To Build a Solid Data Infrastructure - Martin Kleppmann (LinkedIn) ](http://www.ustream.tv/recorded/61479591)
    * [I ♥ Logs: Apache Kafka and Real-Time Data Integration](https://www.youtube.com/watch?v=aJuo_bLSW6s)
    * [Apache Kafka: Real-time Streaming and Data Pipelines with Apache Kafka by Joe Stein](https://www.youtube.com/watch?v=InAKDEk7H0M)
-   * [Chris Curtin](https://vimeo.com/63040812 - AJUG - Apache Kafka)
+   * [Chris Curtin - AJUG - Apache Kafka](https://vimeo.com/63040812)
    * [Getting started guide on Apache Kafka by Learning Journal](https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
    * [Developing with the Go client for Apache Kafka](http://www.slideshare.net/charmalloc/developing-with-the-go-client-for-apache-kafka)
-   * [Verisign](http://www.slideshare.net/miguno/apache-kafka-08-basic-training-verisign - Apache Kafka 0.8 basic training)
+   * [Verisign - Apache Kafka 0.8 basic training](http://www.slideshare.net/miguno/apache-kafka-08-basic-training-verisign)
    * [Developing Real-Time Data Pipelines with Apache Kafka](http://www.slideshare.net/charmalloc/developingwithapachekafka-29910685)
    * [Infrastructure at Scale: Apache Kafka, Twitter Storm & Elastic Search (ARC303) | AWS re:Invent 2013](http://www.slideshare.net/AmazonWebServices/infrastructure-at-scale-apache-kafka-twitter-storm-elastic-search-arc303-aws-reinvent-2013)
    * [Real-time streaming and data pipelines with Apache Kafka](http://www.slideshare.net/charmalloc/real-timestreamingdata-pipelinesapachekafka)
    * [Building a Real-time Data Pipeline: Apache Kafka at LinkedIn](http://www.slideshare.net/Hadoop_Summit/building-a-realtime-data-pipeline-apache-kafka-at-linkedin)
    * [Kafka replication apachecon_2013](http://www.slideshare.net/junrao/kafka-replication-apachecon2013)
    * [Introduction and Overview of Apache Kafka](http://www.slideshare.net/mumrah/kafka-talk-tri-hug)
-
 
 ## Books
 
