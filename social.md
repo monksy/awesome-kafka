@@ -6,6 +6,7 @@
 ## Chats
 
 * IRC: chat.freenode.net in #apache-kafka
+* [Confluent Community Slack](https://launchpass.com/confluentcommunity)
 
 ## Mailing Lists
 
