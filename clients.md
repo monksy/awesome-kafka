@@ -22,7 +22,7 @@
 * [kasper - a lightweight library for processing Kafka topics](https://github.com/movio/kasper)
 
 ### Kafka Streams Libraries 
-* [Scala](https://github.com/lightbend/kafka-streams-scala)
+* [Scala](https://github.com/lightbend/kafka-streams-scala) *Merged into Kafka 2.0* - [KAFKA-6670](https://issues.apache.org/jira/browse/KAFKA-6670)
 * [faust - Python Stream Processing](https://github.com/robinhood/faust)
 * [Python](https://github.com/wintoncode/winton-kafka-streams)
 
