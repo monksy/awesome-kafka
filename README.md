@@ -43,3 +43,4 @@ Table of Contents
 
  - Originally from: https://github.com/infoslack/awesome-kafka
  - Client Libraries, Tools, etc from https://github.com/dharmeshkakadia/awesome-kafka
+ - Awesome-data-engineering list for kafka: https://github.com/monksy/awesome-data-engineering

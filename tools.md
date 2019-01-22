@@ -34,6 +34,7 @@ Table of Contents
  * [kafka-connect-tools](https://github.com/datamountaineer/kafka-connect-tools)
  * [Kafka Auto completion](https://github.com/Landoop/kafka-autocomplete)
  * [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
+ * [kafkacat](https://github.com/edenhill/kafkacat) Generic command line non-JVM Apache Kafka producer and consumer
 
  
 ## Deployment Resources
@@ -41,6 +42,7 @@ Table of Contents
  * [Kafka Helm Charts](https://github.com/helm/charts/tree/master/incubator/kafka) A helm chart to deploy Apache Kafka on Kubernetes
  * [Non-Helm Kafka Deployment for Kubernetes](https://github.com/Yolean/kubernetes-kafka)
  * [Docker: fast-data-dev](https://github.com/Landoop/fast-data-dev)
+ * [kafka-docker](https://github.com/wurstmeister/kafka-docker) Kafka in Docker
 
 ## Dashboards 
  * [Yahoo Kafka Manager](https://github.com/yahoo/kafka-manager)
@@ -81,7 +83,7 @@ Table of Contents
 * [Kafka Proxy providing SASL/PLAIN authentication and SSL](https://github.com/grepplabs/kafka-proxy)
 
 ## Administration
-* [kafkat](https://github.com/airbnb/kafkat)
+* [kafkat](https://github.com/airbnb/kafkat) Simplified command-line administration for Kafka brokers
 
 ## Load Testing/Performance
 
