@@ -21,3 +21,4 @@
 * [kafka-connect-rest](https://github.com/llofberg/kafka-connect-rest)
 * [kafka-connect-aws-lambda](https://github.com/llofberg/kafka-connect-aws-lambda)
 * [kafka-connect-s3-parquet](https://github.com/llofberg/kafka-connect-s3-parquet)
+* [kafka-connect-arangodb](https://github.com/jaredpetersen/kafka-connect-arangodb)
