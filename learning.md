@@ -12,6 +12,7 @@ Table of Contents
    * [Kafka Cheet Sheet](https://github.com/Landoop/kafka-cheat-sheet)
    * [Apache Kafka for Beginners](http://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/)
    * [Introduction to Kafka](http://sysadvent.blogspot.com.br/2014/12/day-4-introduction-to-kafka.html)
+   * [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
    * [Introducing Kafka Streams: Stream Processing Made Simple](http://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple)
    * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
    * [Using logs to build a solid data infrastructure (or: why dual writes are a bad idea)](http://www.confluent.io/blog/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/)
