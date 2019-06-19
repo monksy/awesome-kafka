@@ -50,6 +50,7 @@ Table of Contents
  * [Kafka HQ](https://github.com/tchiotludo/kafkahq)
  * [Kafka Tool](http://www.kafkatool.com/)- Commercial Tool for managing Kafka 0.8
  * [Kafdrop](https://github.com/HomeAdvisor/Kafdrop)
+ * [Kafdrop 3](https://github.com/obsidiandynamics/kafdrop) — Reboot of Kafdrop, adding support for Kafka 2.x and Kubernetes
 * [Kafka Topics UI](https://github.com/Landoop/kafka-topics-ui)
 * [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
