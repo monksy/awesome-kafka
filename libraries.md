@@ -4,6 +4,7 @@
 * [Reactive/Akka API](https://github.com/akka/reactive-kafka)
 * [Exlir Kafka Write Protocol encoder/decoder](https://github.com/klarna/kafka_protocol)
 * [Spring-kafka](https://github.com/spring-projects/spring-kafka)
+* [Jackdaw — Simple configuration and mocking of Kafka clients in Java](https://github.com/obsidiandynamics/jackdaw)
 
 ## KSQL
 
