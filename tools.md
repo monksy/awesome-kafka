@@ -61,6 +61,7 @@ Table of Contents
 * [uReplicator](https://github.com/uber/uReplicator)
 
 ## Schema 
+* [apicurio-registry](https://github.com/Apicurio/apicurio-registry) - Apicurio API/schema registry (includes UI)
 * [Schema registry](https://github.com/confluentinc/schema-registry)
 * [Node Schema registry](https://github.com/nodefluent/schema-registry)
 
@@ -80,6 +81,7 @@ Table of Contents
 
 ## Integrations
 * [REST-proxy](https://github.com/confluentinc/kafka-rest)
+* [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - Strimzi Kafka Bridge (AMQP & HTTP)
 * [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
 * [Kafka Proxy providing SASL/PLAIN authentication and SSL](https://github.com/grepplabs/kafka-proxy)
 
