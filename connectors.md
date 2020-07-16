@@ -1,3 +1,4 @@
+* [Apache Camel Kafka Connectors](https://camel.apache.org/camel-kafka-connector/latest/) - 340+ Apache Camel components as Kafka Connect connectors like Slack, Google Sheets, AWS S3 among others
 * [JDBC](https://github.com/confluentinc/kafka-connect-jdbc)
 * [Elasticsearch](https://github.com/confluentinc/kafka-connect-elasticsearch)
 * [Elasticsearch 5 with XPack support](https://github.com/Landoop/stream-reactor/tree/master/kafka-connect-elastic5)
