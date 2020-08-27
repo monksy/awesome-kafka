@@ -92,5 +92,8 @@ Table of Contents
 
  * [sangrenel](https://github.com/jamiealquiza/sangrenel) - Load Generation and monitoring
  
+## Encryption
+* [kafkacrypto](https://github.com/tmcqueen-materials/kafkacrypto) - Message layer encryption for Kafka
+ 
 
 
