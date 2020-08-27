@@ -27,6 +27,11 @@
 * [Karafka - Ruby and Rails framework](https://github.com/karafka/karafka)
 * [JRuby](https://github.com/joekiller/jruby-kafka)
 
+### Rust
+* [kafka](https://github.com/spicavigo/kafka-rust) pure rust, has major issues and at the time without maintainer
+* [rdkafka](https://github.com/fede1024/rust-rdkafka) wrapping librdkafka, full async support
+* [schema_registry_converter](https://github.com/gklijs/schema_registry_converter) for using Confluent schema registry
+
 ### Other 
 
 * [Python](https://github.com/Parsely/pykafka)
@@ -34,7 +39,6 @@
 * [Dart](https://github.com/dart-kafka/kafka)
 * [Elixir](https://github.com/kafkaex/kafka_ex)
 * [Erlang](https://github.com/klarna/brod)
-* [Rust](https://github.com/spicavigo/kafka-rust)
 * [LinkedIn wrapper library](https://github.com/linkedin/li-apache-kafka-clients)
 * [kasper - a lightweight library for processing Kafka topics](https://github.com/movio/kasper)
 * [librdkafka](https://github.com/edenhill/librdkafka) The Apache Kafka C/C++ library
