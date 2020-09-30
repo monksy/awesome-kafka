@@ -27,7 +27,7 @@ Table of Contents
    * [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
    * [Event Sourcing: What it is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome)
    * [Maven quick start for Kafka Connect connectors](https://github.com/jcustenborder/kafka-connect-archtype)
-   * [Introduction to Stream Processing using Kafka Streams]https://www.loginradius.com/engineering/blog/stream-processing-using-kafka/)
+   * [Introduction to Stream Processing using Kafka Streams](https://www.loginradius.com/engineering/blog/stream-processing-using-kafka/)
    
 ## Talks / Presentations
 
