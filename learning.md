@@ -54,6 +54,7 @@ Table of Contents
    * [Kafka: The Definitive Guide](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
    * [A fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.](https://www.manning.com/books/kafka-in-action)
    * [By the end of the book, you'll be ready to use Kafka Streams in your projects to reap the benefits of the insight your data holds quickly and easily.](https://www.manning.com/books/kafka-streams-in-action)
+   * [Event Streaming with Kafka Streams and ksqlDB](https://www.manning.com/books/event-streaming-with-kafka-streams-and-ksqldb)
  
 ## Courses  
  
