@@ -51,6 +51,7 @@ Table of Contents
 
   * [Making sense of stream processing](http://www.confluent.io/making-sense-of-stream-processing-ebook)
   * [Designing Data-Intensive Applications](http://shop.oreilly.com/product/0636920032175.do)
+  * [Effective Kafka - a hands-on guide to building robust and scalable event-driven applications](https://apachekafkabook.com/)
    * [Kafka: The Definitive Guide](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
    * [A fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.](https://www.manning.com/books/kafka-in-action)
    * [By the end of the book, you'll be ready to use Kafka Streams in your projects to reap the benefits of the insight your data holds quickly and easily.](https://www.manning.com/books/kafka-streams-in-action)
