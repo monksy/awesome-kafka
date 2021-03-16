@@ -35,7 +35,7 @@ Table of Contents
  * [Kafka Auto completion](https://github.com/Landoop/kafka-autocomplete)
  * [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
  * [kafkacat](https://github.com/edenhill/kafkacat) Generic command line non-JVM Apache Kafka producer and consumer
- * [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) - A CLI for Strimzi Kafka Operator
+ * [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) A CLI for Strimzi Kafka Operator
 
  
 ## Deployment Resources
