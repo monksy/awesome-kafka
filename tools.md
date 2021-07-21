@@ -65,6 +65,7 @@ Table of Contents
 * [apicurio-registry](https://github.com/Apicurio/apicurio-registry) - Apicurio API/schema registry (includes UI)
 * [Schema registry](https://github.com/confluentinc/schema-registry)
 * [Node Schema registry](https://github.com/nodefluent/schema-registry)
+* [Stencil](https://github.com/odpf/stencil) - Stencil is a Protobuf schema registry for Kafka that enables you to create, maintain and consume protobuf messages and APIs dynamically, efficiently, and reliably.
 
 ## Management
 * [Cruise control](https://github.com/linkedin/cruise-control) Manager for large Kafka Clusters 
@@ -85,6 +86,10 @@ Table of Contents
 * [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - Strimzi Kafka Bridge (AMQP & HTTP)
 * [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
 * [Kafka Proxy providing SASL/PLAIN authentication and SSL](https://github.com/grepplabs/kafka-proxy)
+* [Firehose](https://github.com/odpf/firehose) - Firehose is an extensible, no-code, and cloud-native service to load real-time streaming data from Kafka to data stores, data lakes, and analytical storage systems.
+* [Dagger](https://github.com/odpf/dagger) - Dagger is an easy-to-use, SQL framework to process built on top of Apache Flink for stateful processing of Kafka data.
+* [Raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols and publish to Kafka.
+* [Meteor](https://github.com/odpf/meteor) - Meteor is a scalable, easy-to-use, extensible metadata collection framework from the different cloud providers and on-prem sources and publish to Kafka.
 
 ## Administration
 * [kafkat](https://github.com/airbnb/kafkat) Simplified command-line administration for Kafka brokers
