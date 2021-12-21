@@ -38,6 +38,7 @@ Table of Contents
    * [Apache Kafka: Real-time Streaming and Data Pipelines with Apache Kafka by Joe Stein](https://www.youtube.com/watch?v=InAKDEk7H0M)
    * [Chris Curtin - AJUG - Apache Kafka](https://vimeo.com/63040812)
    * [Getting started guide on Apache Kafka by Learning Journal](https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
+   * [Short demo of how to do joins in Kafka Streams](https://youtu.be/U_FTlAx9rGA)
    * [Developing with the Go client for Apache Kafka](http://www.slideshare.net/charmalloc/developing-with-the-go-client-for-apache-kafka)
    * [Verisign - Apache Kafka 0.8 basic training](http://www.slideshare.net/miguno/apache-kafka-08-basic-training-verisign)
    * [Developing Real-Time Data Pipelines with Apache Kafka](http://www.slideshare.net/charmalloc/developingwithapachekafka-29910685)
@@ -55,7 +56,7 @@ Table of Contents
    * [Kafka: The Definitive Guide](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
    * [A fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.](https://www.manning.com/books/kafka-in-action)
    * [By the end of the book, you'll be ready to use Kafka Streams in your projects to reap the benefits of the insight your data holds quickly and easily.](https://www.manning.com/books/kafka-streams-in-action)
-   * [Event Streaming with Kafka Streams and ksqlDB](https://www.manning.com/books/event-streaming-with-kafka-streams-and-ksqldb)
+   * [Kafka Streams in Action, Second Edition](https://www.manning.com/books/kafka-streams-in-action-second-edition)
  
 ## Courses  
  
