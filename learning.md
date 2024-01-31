@@ -57,6 +57,7 @@ Table of Contents
    * [A fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.](https://www.manning.com/books/kafka-in-action)
    * [By the end of the book, you'll be ready to use Kafka Streams in your projects to reap the benefits of the insight your data holds quickly and easily.](https://www.manning.com/books/kafka-streams-in-action)
    * [Kafka Streams in Action, Second Edition](https://www.manning.com/books/kafka-streams-in-action-second-edition)
+  * [Streaming Data Pipelines with Kafka](https://www.manning.com/books/streaming-data-pipelines-with-kafka)
  
 ## Courses  
  
