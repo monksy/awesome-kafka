@@ -55,7 +55,7 @@ Table of Contents
 * [Kafka Topics UI](https://github.com/Landoop/kafka-topics-ui)
 * [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
-* [UI for Apache Kafka](https://github.com/provectus/kafka-ui)
+* [UI for Apache Kafka](https://github.com/kafbat/kafka-ui)
 
 
 ## Mirroring 
