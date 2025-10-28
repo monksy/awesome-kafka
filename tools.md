@@ -91,6 +91,7 @@ Table of Contents
 * [Dagger](https://github.com/odpf/dagger) - Dagger is an easy-to-use, SQL framework to process built on top of Apache Flink for stateful processing of Kafka data.
 * [Raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols and publish to Kafka.
 * [Meteor](https://github.com/odpf/meteor) - Meteor is a scalable, easy-to-use, extensible metadata collection framework from the different cloud providers and on-prem sources and publish to Kafka.
+* [kroxylicious](https://github.com/kroxylicious/kroxylicious) Kroxylicious is a Kafka Proxy, solving problems like encryption-at-rest, multi-tenancy and more
 
 ## Administration
 * [kafkat](https://github.com/airbnb/kafkat) Simplified command-line administration for Kafka brokers
