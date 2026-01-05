@@ -1,4 +1,5 @@
 * [Apache Camel Kafka Connectors](https://camel.apache.org/camel-kafka-connector/latest/) - 340+ Apache Camel components as Kafka Connect connectors like Slack, Google Sheets, AWS S3 among others
+* [Stream Reactor](https://github.com/lensesio/stream-reactor) - A collection of open source Apache 2.0 Kafka Connectors maintained by Lenses.io to popular sources and sinks like AWS S3, Azure Event Hubs, GCP PubSub, MQTT, Cassandra, JMS, FTP, Elasticsearch, MongoDB, Redis, and more
 * [JDBC](https://github.com/confluentinc/kafka-connect-jdbc)
 * [Elasticsearch](https://github.com/confluentinc/kafka-connect-elasticsearch)
 * [Elasticsearch 5 with XPack support](https://github.com/Landoop/stream-reactor/tree/master/kafka-connect-elastic5)
