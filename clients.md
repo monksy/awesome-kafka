@@ -22,10 +22,8 @@
 
 ### Ruby 
 
-* [Ruby](https://github.com/zendesk/ruby-kafka)
-* [Phobos - Ruby App framework](https://github.com/klarna/phobos)
 * [Karafka - Ruby and Rails framework](https://github.com/karafka/karafka)
-* [JRuby](https://github.com/joekiller/jruby-kafka)
+* [Rdkafka-Ruby](https://github.com/karafka/rdkafka-ruby)
 
 ### Rust
 * [kafka](https://github.com/spicavigo/kafka-rust) pure rust, has major issues and at the time without maintainer
