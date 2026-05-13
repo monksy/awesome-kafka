@@ -4,6 +4,7 @@
 * [Reactive/Akka API](https://github.com/akka/reactive-kafka)
 * [Exlir Kafka Write Protocol encoder/decoder](https://github.com/klarna/kafka_protocol)
 * [Spring-kafka](https://github.com/spring-projects/spring-kafka)
+* [spring-boot-starter-kafka-ops](https://github.com/AhmedSarie/spring-boot-starter-kafka-ops) - Spring Boot starter with embedded web console and REST API for Kafka message operations — browse, retry, correct, and DLT routing.
 * [Jackdaw — Simple configuration and mocking of Kafka clients in Java](https://github.com/obsidiandynamics/jackdaw)
 
 ## KSQL
