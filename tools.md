@@ -56,6 +56,7 @@ Table of Contents
 * [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
 * [UI for Apache Kafka](https://github.com/kafbat/kafka-ui)
+* [LibreDB Studio](https://github.com/libredb/libredb-studio) - Web-based multi-database IDE with a read-only Kafka browser for topics, consumer group lag, brokers and messages
 
 
 ## Mirroring 
