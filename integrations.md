@@ -5,3 +5,4 @@
 * [Secor](https://github.com/pinterest/secor) Pinterest's Kafka to S3 distributed consumer
 * [Camus](https://github.com/linkedin/camus) LinkedIn's Kafka to HDFS pipeline.
 * [BottledWater](https://github.com/confluentinc/bottledwater-pg) Change data capture from PostgreSQL into Kafka
+* [Tributary](https://query.farm/products/extensions/tributary/) A DuckDB extension for querying Apache Kafka topics from SQL, built on librdkafka.
