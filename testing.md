@@ -6,3 +6,4 @@
 * [Kafka for JUnit](https://github.com/mguenther/kafka-junit)
 * [embedded-kafka - in-memory Kafka instance to run your tests against](https://github.com/embeddedkafka/embedded-kafka)
 * [kroxylicious-junit5-extension](https://github.com/kroxylicious/kroxylicious-junit5-extension)
+* [Keploy - Records real Kafka producer and consumer exchanges and replays them as mocks in tests (no broker required)](https://github.com/keploy/keploy)
