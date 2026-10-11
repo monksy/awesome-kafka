@@ -36,6 +36,7 @@ Table of Contents
  * [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
  * [kafkacat](https://github.com/edenhill/kafkacat) Generic command line non-JVM Apache Kafka producer and consumer
  * [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) A CLI for Strimzi Kafka Operator
+ * [OLake](https://github.com/datazip-inc/olake) - Open-source Kafka to Apache Iceberg sink with checkpointed, parallel consumption, alongside CDC from Postgres, MySQL, MongoDB, Oracle and SQL Server. Written in Go
 
  
 ## Deployment Resources
