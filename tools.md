@@ -24,6 +24,7 @@ Table of Contents
   * [Kafka Offset Monitoring](https://github.com/Morningstar/kafka-offset-monitor)
   * [kafka-eagle](https://github.com/smartloli/kafka-eagle)
 * [Kafka-monitor](https://github.com/linkedin/kafka-monitor)
+* [SolidPing](https://github.com/fclairamb/solidping) Self-hosted uptime monitor whose Kafka check connects to the brokers, checks a topic and can produce a test message, with alerting.
 
 ## Utility 
  * [Burrower](https://github.com/splee/burrower) A utiltiy to convert the output from Burrow and report it to InfluxDB
