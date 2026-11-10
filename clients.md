@@ -6,6 +6,7 @@
 * [JDamick's Kafka](https://github.com/jdamick/kafka)
 * [Optionpay's Kafka](https://github.com/optiopay/kafka)
 * [Go Kafka streaming](https://github.com/lovoo/goka)
+* [Go Kafka event bus](https://github.com/korableg/bus)
 
 ### Javascript/Node 
 
