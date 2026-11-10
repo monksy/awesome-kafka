@@ -7,3 +7,4 @@
 * [embedded-kafka - in-memory Kafka instance to run your tests against](https://github.com/embeddedkafka/embedded-kafka)
 * [kroxylicious-junit5-extension](https://github.com/kroxylicious/kroxylicious-junit5-extension)
 * [Keploy - Records real Kafka producer and consumer exchanges and replays them as mocks in tests (no broker required)](https://github.com/keploy/keploy)
+* [JSON2Class Kafka Message Generator - generate Kafka test messages, Java producer snippets and kcat commands from an Avro or JSON schema in the browser](https://json2class.com/en/kafka-message-generator/)
