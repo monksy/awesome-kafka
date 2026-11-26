@@ -59,7 +59,7 @@ Table of Contents
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
 * [UI for Apache Kafka](https://github.com/kafbat/kafka-ui)
 * [LibreDB Studio](https://github.com/libredb/libredb-studio) - Web-based multi-database IDE with a read-only Kafka browser for topics, consumer group lag, brokers and messages
-
+* [Alginte](https://www.alginte.com) - Self-hosted Kafka console with a visual Kafka Streams builder and SQL over topics. Proprietary, free Community edition
 
 ## Mirroring 
 * [MirrorMaker](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
